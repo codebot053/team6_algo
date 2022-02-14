@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (team6_algo)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (algo_github)" project-jdk-type="Python SDK" />
+>>>>>>> f702f44fef26ed44d41031ffcf3e995c2c0c44f2
 </project>
